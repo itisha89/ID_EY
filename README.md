@@ -1,6 +1,10 @@
-# Instructional Design Test – Senior Consultant Level
+# **Instructional Design Test – Senior Consultant Level (Ernst & Young)**
 
-This repository showcases my work on a **Senior Consultant-level Instructional Design Test**, where I created a digital learning solution for SebertWork Solutions® to train employees and contractors on updated data security procedures following a data breach. The repository contains the **Storyboard** and the **Original Assignment Document** to demonstrate the instructional design process and deliverables.
+This repository showcases my work on a **Senior Consultant-level Instructional Design Test** for **Ernst & Young**. In this project, I developed a digital learning solution for SebertWork Solutions® to train employees and contractors on updated data security procedures following a data breach. The repository contains the **Storyboard** and the **Original Assignment Document**, illustrating the instructional design process and deliverables.
+
+---
+
+This version ties the project to **Ernst & Young** while maintaining focus on the instructional design aspect.
 
 ---
 
