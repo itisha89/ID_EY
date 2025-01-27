@@ -50,6 +50,6 @@ The objective of this assignment was to create an engaging training solution tha
 
 ### Let’s Connect!
 
-If you’d like to discuss this project or have similar instructional design needs, feel free to connect with me on **LinkedIn**: [https://www.linkedin.com/in/itishasharmaofficial/]. You can also visit my website for more insights: [The iVision Blog](https://theivision.wordpress.com/).
+If you’d like to discuss this project or have similar instructional design needs, feel free to connect with me on **LinkedIn**[https://www.linkedin.com/in/itishasharmaofficial/]. You can also visit my website for more insights: [The iVision Blog](https://theivision.wordpress.com/).
 
 #InstructionalDesign #Storyboarding #DigitalLearning #TrainingDevelopment #LearningAndDevelopment #DataSecurityTraining
