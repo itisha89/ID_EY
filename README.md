@@ -52,11 +52,6 @@ The objective of this assignment was to create an engaging training solution tha
 
 ---
 ## 🌍 Explore More Projects  
-For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+For more exciting projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
 
 ---
-### Let’s Connect!
-
-If you’d like to discuss this project or have similar instructional design needs, feel free to connect with me on **LinkedIn**[https://www.linkedin.com/in/itishasharmaofficial/]. You can also visit my website for more insights: [The iVision Blog](https://theivision.wordpress.com/).
-
-#InstructionalDesign #Storyboarding #DigitalLearning #TrainingDevelopment #LearningAndDevelopment #DataSecurityTraining
